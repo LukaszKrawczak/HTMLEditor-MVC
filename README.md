@@ -1,5 +1,5 @@
 # HTMLEditor-MVC
-HTML editor based on Model View Controller pattern from CodeGym course.
+HTML editor based on Model View Controller pattern from CodeGym course!
 
 It has: 
 - Dialog boxes.
